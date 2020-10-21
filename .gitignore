@@ -1,7 +1,7 @@
-# Ignore logs
+# Ignore any logs
 *.db
 *.log
 
-# Ignore directory
+# Ignore any directory's
 target/*
 bin/*
